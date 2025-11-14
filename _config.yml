@@ -23,7 +23,7 @@ repository               : "pcnorrick1/pcnorrick1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "norrick_headshot.png"
   name             : "Patrick Norrick"
   pronouns         : # example: "she/her"
   bio              : "Interested in macroeconomics, demographics, and computation. Currently working as a Research Associate in Washington DC. I have degrees in mathematics and economics from WashU in St. Louis where I also competed on the cross country + track & field teams (Class of 2022)"
