@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ## Publications and Working Papers
-- "Terra Incognita: The Economics of a Shrinking World", with Jesús Fernández-Villaverde. *Working Paper*
+- "Terra Incognita: The Economics of a Shrinking World", with Jesús Fernández-Villaverde.
     - Working Paper [here](https://www.sas.upenn.edu/~jesusfv/Demographics.pdf)
     - (Older) Summary on X [here](https://x.com/JesusFerna7026/status/1929278948350771281)
 
