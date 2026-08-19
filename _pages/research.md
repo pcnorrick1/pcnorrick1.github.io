@@ -4,11 +4,10 @@ title: "Research"
 permalink: /research/
 ---
 
-## Publications and Working Papers 
-- "Demographic Projections and Long-Run Growth: A Review of the UN Population Division's World Population Prospects", with Jesús Fernández-Villaverde. *Working Paper in Progress* 
-
-    - Summary on X [here](https://x.com/JesusFerna7026/status/1929278948350771281)
-    - Companion webpage [here](https://pcnorrick1-wpp-visualize-wpp-visualize-pm0yuk.streamlit.app/)
+## Publications and Working Papers
+- "Terra Incognita: The Economics of a Shrinking World", with Jesús Fernández-Villaverde. *Working Paper*
+    - Working Paper [here](https://www.sas.upenn.edu/~jesusfv/Demographics.pdf)
+    - (Older) Summary on X [here](https://x.com/JesusFerna7026/status/1929278948350771281)
 
 
 - "Knowledge and Skills in China's K-12 Population: An Inquiry into "Knowledge Capital" in the PRC", with Nicholas Eberstadt, Radek Sabatka, and Peter Van Ness. *AEI Working Paper*, November 2024
