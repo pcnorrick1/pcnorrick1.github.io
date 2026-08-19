@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Patrick Norrick"
 title_separator          : "-"
 name                     : &name "Patrick Norrick"
-description              : &description "Welcome to my academic website. I am a Research Associate interested in dynamic macroeconomics, demographics, and long-run growth"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Welcome to my academic website. I am an Economics PhD student at Northwestern Unviersity interested in dynamic macroeconomics, demographics, and long-run growth"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://pcnorrick1.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,7 +27,7 @@ author:
   name             : "Patrick Norrick"
   pronouns         : # example: "she/her"
   bio              : "Economics PhD Student at Northwestern University. Interested in macroeconomics, demographics, and computation."
-  location         : "Washington, District of Columbia"
+  location         : "Evanston, Illinois"
   employer         :
   uri              : # URL
   email            : "pcnorrick1@gmail.com"
