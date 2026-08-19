@@ -5,7 +5,7 @@ permalink: /            # THIS makes it the homepage
 author_profile: true    # shows the left sidebar card
 ---
 
-Welcome to my academic webpage. I’m currently a Research Associate in Washington DC interested in **dynamic macroeconomics**, **computation**, **demographics & growth**, and **macro-finance**.
+Welcome to my academic webpage. I’m a first year PhD student in Economics at Northwestern University. My main research interests are **dynamic macroeconomics**, **computation**, **demographics & growth**, and **macro-finance**. I am supported by a NSF Graduate Research Fellowship (GRFP)
 
 - **CV:** <a href="/assets/CV.pdf">PDF</a>
 
