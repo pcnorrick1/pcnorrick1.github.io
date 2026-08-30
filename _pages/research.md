@@ -5,9 +5,10 @@ permalink: /research/
 ---
 
 ## Publications and Working Papers
-- "Terra Incognita: The Economics of a Shrinking World", with Jesús Fernández-Villaverde.
+- "Terra Incognita: The Economics of a Shrinking World", with Jesús Fernández-Villaverde. *Annual Review of Economics*, accepted under minor revisions
     - Working Paper [here](https://www.sas.upenn.edu/~jesusfv/Demographics.pdf)
     - (Older) Summary on X [here](https://x.com/JesusFerna7026/status/1929278948350771281)
+    - Coverage by [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-of-a-shrinking-world.html)
 
 
 - "Knowledge and Skills in China's K-12 Population: An Inquiry into "Knowledge Capital" in the PRC", with Nicholas Eberstadt, Radek Sabatka, and Peter Van Ness. *AEI Working Paper*, November 2024
